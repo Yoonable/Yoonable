@@ -1,7 +1,7 @@
- <img align="right" src="https://github.com/Yoonable/Yoonable/assets/94905388/5146d825-d7c5-47cf-bc55-bce60b2e3a98" width="250" /> 
- <br><br><br><br><br><br>
-<h1>✨Welcome✨</h1>
-
+<!--  <img align="right" src="https://github.com/Yoonable/Yoonable/assets/94905388/5146d825-d7c5-47cf-bc55-bce60b2e3a98" width="250" />  -->
+ <br>
+<h1>✨Yoonable`s github✨</h1>
+<br>
 
 #### Contact
 <div style="display:flex; flex-direction:row;">
@@ -30,19 +30,4 @@
     <br>
 </div>
 <br><br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoonable&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Yoonable&show_icons=true">
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

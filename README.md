@@ -37,23 +37,28 @@
 
  ### 현재 뜨거운 이슈나 논란을 알아보고 투표하여 나의 성격, 성향등을 공유
 
- <div>
+<div style='width:50px; height:50px; background:red;'></div>
+<div style="display: flex">
   <div>
-   
-1) 메인 페이지<br>
-<image src= "https://github.com/Yoonable/Yoonable/assets/94905388/26df614e-3002-4e16-9b8e-b75f7dcb8fae" width="300"/><br>
+    <image
+      src="https://github.com/Yoonable/Yoonable/assets/94905388/26df614e-3002-4e16-9b8e-b75f7dcb8fae"
+      width="300"
+    />
   </div>
   <div>
-   
-2) 서베이 페이지 <br>
-<image src= "https://github.com/Yoonable/Yoonable/assets/94905388/2530875b-22ea-411a-bb0a-5034b2619b8c" width="300"/><br>
+    <image
+      src="https://github.com/Yoonable/Yoonable/assets/94905388/2530875b-22ea-411a-bb0a-5034b2619b8c"
+      width="300"
+    />
   </div>
   <div>
-   
-3) 결과 페이지 <br>
-<image src= "https://github.com/Yoonable/Yoonable/assets/94905388/0452d32c-da33-4819-ae53-59be169d8a12" width="300"/><br>
+    <image
+      src="https://github.com/Yoonable/Yoonable/assets/94905388/0452d32c-da33-4819-ae53-59be169d8a12"
+      width="300"
+    />
   </div>
- </div>
+</div>
+
  
 
 

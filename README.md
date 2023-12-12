@@ -64,7 +64,7 @@
     height="500"
   />
 </div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ### 사용 언어 및 개발 환경
 TypeScript, Next.js, html, css, Recoil.js, Emotion.js, AWS Amplify, prettier, esLint

@@ -48,19 +48,19 @@
   <img
     src="https://github.com/Yoonable/Yoonable/assets/94905388/26df614e-3002-4e16-9b8e-b75f7dcb8fae"
     align="left"
-    width="300"
+    width="250"
     height="500"
   />
   <img
     src="https://github.com/Yoonable/Yoonable/assets/94905388/2530875b-22ea-411a-bb0a-5034b2619b8c"
     align="left"
-    width="300"
+    width="250"
     height="500"
   />
   <img
     src="https://github.com/Yoonable/Yoonable/assets/94905388/0452d32c-da33-4819-ae53-59be169d8a12"
     align="left"
-    width="300"
+    width="250"
     height="500"
   />
 </div>

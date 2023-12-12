@@ -12,8 +12,12 @@
 
 #### Portfolio
 <div style="display:flex; flex-direction:row;">
-<img src="https://img.shields.io/badge/Notion-pink?style=for-the-badge&logo=Notion&logoColor=black"/>
-<img src="https://img.shields.io/badge/Velog-green?style=for-the-badge&logo=Velog&logoColor=white"/>
+  <a href="https://humane-fernleaf-62e.notion.site/YOUNGWON-S-STORY-251af25c6b6a4325b12c82ae97c10eb6?pvs=4">
+   <img src="https://img.shields.io/badge/Notion-pink?style=for-the-badge&logo=Notion&logoColor=black"/>
+  </a>
+  <a href="https://velog.io/@yoonable">
+   <img src="https://img.shields.io/badge/Velog-green?style=for-the-badge&logo=Velog&logoColor=white"/>
+  </a>
 </div>
 
 #### Main Stack / Sub Stack

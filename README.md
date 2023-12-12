@@ -114,13 +114,13 @@ TypeScript, Next.js, html, css, swiper.js, Lottifiles, Emotion.js, AWS Amplify
   <img
     src="https://github.com/Yoonable/Yoonable/assets/94905388/c113e6a0-278c-488b-a5a0-b904f3ff2a1e"
     align="left"
-    width="470"
+    width="440"
     height="400"
   />
   <img
     src="https://github.com/Yoonable/Yoonable/assets/94905388/39f234ee-665d-47dd-a598-311d185da684"
     align="left"
-    width="470"
+    width="440"
     height="400"
   />
 </div>
